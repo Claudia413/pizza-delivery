@@ -1,3 +1,5 @@
+require_relative "menu.rb"
+
 done = false
 
 puts "Hello, welcome to our pizza express delivery"
